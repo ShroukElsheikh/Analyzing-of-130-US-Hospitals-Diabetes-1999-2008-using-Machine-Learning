@@ -21,7 +21,7 @@ evaluation, and deployment as a live web application.
 | Original Source | [Kaggle - Diabetes 130 Hospitals](https://www.kaggle.com/datasets/brandao/diabetes) |
 | Records | 101,766 patient encounters |
 | Features | 50 original columns |
-| Cleaned Dataset | [Download from Google Drive]([PASTE YOUR GOOGLE DRIVE LINK HERE]) |
+| Cleaned Dataset | [Download from Google Drive](https://drive.google.com/file/d/1PXXaD54hLj_stQIx5nD0S35-BVnmJRZ0/view?usp=sharing) |
 
 ---
 
