@@ -85,7 +85,7 @@ seaborn
 
 ## 👤 Team Members
 
-- [Shrouk Taher Elsheikh]
+- Shrouk Taher Elsheikh
 
 ---
 
