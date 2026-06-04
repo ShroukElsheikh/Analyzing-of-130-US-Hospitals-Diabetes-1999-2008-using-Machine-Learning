@@ -27,7 +27,7 @@ evaluation, and deployment as a live web application.
 
 ## 🎬 Demo Video
 
-📺 [Watch the full project presentation and app demo]([https://canva.link/vv7s23bor2x3snz])
+📺 [Watch the full project presentation and app demo](https://canva.link/vv7s23bor2x3snz)
 
 ---
 
@@ -79,7 +79,7 @@ seaborn
 
 ## 🌐 Live Web Application
 
-🔗 [Open the live Streamlit app]([https://analyzing130hospitaldiabetes.streamlit.app/])
+🔗 [Open the live Streamlit app](https://analyzing130hospitaldiabetes.streamlit.app/)
 
 ---
 
